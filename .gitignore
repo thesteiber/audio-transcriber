@@ -1,0 +1,12 @@
+audio_transcriber_config.json
+audio_transcriber_logs.txt
+audio_transcriber_audio_files/
+audio_transcriber_audio_files/
+audio_transcriber_audio_files/
+audio_transcriber_audio_files/
+audio_transcriber_audio_files/
+venv/
+__pycache__/
+.git
+
+
